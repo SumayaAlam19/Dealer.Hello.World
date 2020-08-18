@@ -1,0 +1,13 @@
+C:\Users\sumaya.alam\source\repos\test\Dealer.Hello.World\bin\Debug\netcoreapp3.1\Dealer.Hello.World.exe
+C:\Users\sumaya.alam\source\repos\test\Dealer.Hello.World\bin\Debug\netcoreapp3.1\Dealer.Hello.World.deps.json
+C:\Users\sumaya.alam\source\repos\test\Dealer.Hello.World\bin\Debug\netcoreapp3.1\Dealer.Hello.World.runtimeconfig.json
+C:\Users\sumaya.alam\source\repos\test\Dealer.Hello.World\bin\Debug\netcoreapp3.1\Dealer.Hello.World.runtimeconfig.dev.json
+C:\Users\sumaya.alam\source\repos\test\Dealer.Hello.World\bin\Debug\netcoreapp3.1\Dealer.Hello.World.dll
+C:\Users\sumaya.alam\source\repos\test\Dealer.Hello.World\bin\Debug\netcoreapp3.1\Dealer.Hello.World.pdb
+C:\Users\sumaya.alam\source\repos\test\Dealer.Hello.World\obj\Debug\netcoreapp3.1\Dealer.Hello.World.csprojAssemblyReference.cache
+C:\Users\sumaya.alam\source\repos\test\Dealer.Hello.World\obj\Debug\netcoreapp3.1\Dealer.Hello.World.AssemblyInfoInputs.cache
+C:\Users\sumaya.alam\source\repos\test\Dealer.Hello.World\obj\Debug\netcoreapp3.1\Dealer.Hello.World.AssemblyInfo.cs
+C:\Users\sumaya.alam\source\repos\test\Dealer.Hello.World\obj\Debug\netcoreapp3.1\Dealer.Hello.World.csproj.CoreCompileInputs.cache
+C:\Users\sumaya.alam\source\repos\test\Dealer.Hello.World\obj\Debug\netcoreapp3.1\Dealer.Hello.World.dll
+C:\Users\sumaya.alam\source\repos\test\Dealer.Hello.World\obj\Debug\netcoreapp3.1\Dealer.Hello.World.pdb
+C:\Users\sumaya.alam\source\repos\test\Dealer.Hello.World\obj\Debug\netcoreapp3.1\Dealer.Hello.World.genruntimeconfig.cache
